@@ -4,7 +4,6 @@
 
 Currently in my final year of Computer Science (IUT Informatique) on a work-study contract, applying to Master MIAGE programs. I build things on my own time with Node.js, React & PostgreSQL — mostly because PHP at work isn't enough to keep me sane.
 
-- Working on **[Écume](https://github.com/felixhennequin-gif/cocktail-app)** — a cocktail app (Node/Express/Prisma/PostgreSQL + React/Vite/Tailwind)
 - Exploring local LLMs, RAG pipelines & AI tooling
 - Long-term goal: build something that's genuinely mine
 
